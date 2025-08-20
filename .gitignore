@@ -1,0 +1,12 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.suo
+*.opensdf
+*.sdf
+*.sln
+.vs/
+*.DS_Store
+Thumbs.db
